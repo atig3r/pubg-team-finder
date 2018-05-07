@@ -10,8 +10,8 @@ PHP Script for registering and finding teammate in PUBG (PlayerUnknown's Battleg
 Enjoy it ;)
 
 # Coming Soon
-- [] English Language
-- [] Add admin panel for changing colors and images
+- [ ] English Language
+- [ ] Add admin panel for changing colors and images
 
 # Technologies
 - Bootstrap 3 / Bootstrap 3 RTL
