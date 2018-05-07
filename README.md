@@ -1,6 +1,10 @@
 # PUBG Team finder
 PHP Script for registering and finding teammate in PUBG (PlayerUnknown's Battlegrounds)
 
+# Demo
+
+See [Demo](https://e-gaming.ir/features/pubg/team/).
+
 # Instaltion
 ```
  1- Download/Clone project.
