@@ -8,7 +8,7 @@ See [Demo](https://e-gaming.ir/features/pubg/team/).
 # Instaltion
 
  - Download/Clone project.
- - Import `E-Gaming-IR.sql` frin SQL folder into your database
+ - Import `E-Gaming-IR.sql` from SQL folder into your database
  - Edit `db.php` file and set your database config.
  
  __DONT FORGET REMOVE SQL FOLDER FROM YOUR HOST__
