@@ -6,11 +6,11 @@ PHP Script for registering and finding teammate in PUBG (PlayerUnknown's Battleg
 See [Demo](https://e-gaming.ir/features/pubg/team/).
 
 # Instaltion
-```
- 1- Download/Clone project.
- 2- Import `E-Gaming-IR.sql` frin SQL folder into your database
- 3- Edit `db.php` file and set your database config.
-```
+
+ - Download/Clone project.
+ - Import `E-Gaming-IR.sql` frin SQL folder into your database
+ - Edit `db.php` file and set your database config.
+ 
  __DONT FORGET REMOVE SQL FOLDER FROM YOUR HOST__
  
 Enjoy it ;)
